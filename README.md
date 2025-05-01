@@ -42,4 +42,4 @@
 ---
 
 > 😆 **Fun Fact:**<br/> 
-> *"I love data modelling more than I love coding more than I love <font color="red">...</font>people."*   
+> *"I love data modelling more than I love coding more than I love people."*   
