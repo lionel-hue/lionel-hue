@@ -31,7 +31,6 @@
 - 🔥 **Firebase**
 - 💾 **MYSQL & SQLite**
 - ♨️ **HTML, CSS, JavaScript**
-- 📱 **Java & XML (Android)**
 
 ## 📫 Connect With Me
 <p align="center">
