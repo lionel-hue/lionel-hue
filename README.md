@@ -2,7 +2,7 @@
 <p align="center">💻 Software Architect & Developer</p>
 
 <div align="center">
-  <img src="https://i.ibb.co/N6rjG0jF/file-0000000076ac522fbbe1aede3a4991ac-conversation-id-67f07ac4-12e0-8003-977d-6fef03cd5812-message-i.png" width="25%" />
+  <img src="img/20250515_200835~2.png" width="50%"/>
 </div>
 
 ## About Me ❓  
@@ -12,7 +12,7 @@
       I take real world manual processes and <b style="color:#61dafb">provide software solutions to automate them !</b> And with my expertise in data modelling, design patterns and engineering trends, I can also <b style="color:#61dafb">provide effective software solutions to common business problems</b> in their various sectors e.g educational, financiaal, entertainment, commercial and so on.<br/> <b style="color:#61dafb">For almost 5 years</b>, I've been reinforcing my software development skills to be able to construct systems that uses my software architectural models principles and guidelines.  
     </td>
     <td width="40%">
-    <img src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-de5c-620a-adee-17f98c4c3770/raw?se=2025-04-29T19%3A03%3A28Z&sp=r&sv=2024-08-04&sr=b&scid=a872295c-a058-5ef0-a7c8-cd5d3097b70e&skoid=59d06260-d7df-416c-92f4-051f0b47c607&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-29T04%3A31%3A05Z&ske=2025-04-30T04%3A31%3A05Z&sks=b&skv=2024-08-04&sig=mjmqhvNYBDHfnDvc6%2BXyswXtyCi2p/LzWz1%2B2bSYAPA%3D" width="100%" style="border-radius:0;" />
+    <img src="img/file_00000000de5c620aadee17f98c4c3770.png" width="100%" style="border-radius:0;" />
     </td>
   </tr>
 </table>
