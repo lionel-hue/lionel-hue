@@ -20,11 +20,6 @@
   - 🎯 passionate about sci-fi, football, reading and chess.  
     </td>
   </tr>
-  <tr style="display:none;">
-    <td align="center">
-      <img src="img/file_00000000de5c620aadee17f98c4c3770.png" width="35%" style="border-radius:0;" />
-    </td>
-  </tr>
 </table>
 
 ## 🚀 Tech Stack
