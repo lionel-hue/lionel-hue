@@ -1,56 +1,74 @@
-<h1 align="center">Hello!, I'm <span style="color:#61dafb">Lionel Sisso</span> 🕵 </h1>
-<p align="center">💻 Software Architect & Developer</p>
+# Lionel Sisso 💻
+
+**Software Architect & Developer**  
+*Turning manual processes into automated solutions*
 
 <div align="center">
   <img src="img/20250515_200835~2.png" width="50%"/>
 </div>
 
-## About Me ❓  
-<table>
-  <tr>
-    <td>
-      I take real world manual processes and <b style="color:#61dafb">provide software solutions to automate them !,</b> and with my expertise in data modelling, design patterns and engineering trends, I can also <b style="color:#61dafb">provide effective software solutions to common business problems</b> in their various sectors e.g educational, financial, entertainment, commercial and so on.<br/> I keep on reinforcing my software development skills to be able to construct systems that uses my software architectural models, principles, and guidelines.
+---
+
+## 👨‍💻 About Me
+
+I specialize in transforming real-world manual processes into efficient software solutions. With expertise in data modelling, design patterns, and modern engineering practices, I build effective systems for various sectors including education, finance, entertainment, and commerce.
+
+I'm constantly evolving my skills to create robust systems based on solid architectural principles.
+
+**I'm also...**
+- Open to collaborations that challenge and expand my abilities
+- A full-stack developer passionate about clean architecture
+- An adaptable learner focused on web development and problem-solving
+- Enthusiastic about sci-fi, football, reading, and chess
 
 ---
 
-  **I'm also...**
-  - 👨‍💻 open to collaborations on projects that align with my current skills — and even better, push me beyond them.  
-  - 🚀 a full-stack developer.  
-  - 📚 an adaptable, flexible learner with a strong interest in web development, problem-solving, and graphic design.  
-  - 🎯 passionate about sci-fi, football, reading and chess.  
-    </td>
-  </tr>
-</table>
+## 🛠️ Technical Skills
 
-## 🚀 Tech Stack
-- 🌐 **Data Modelling**
-- 🛢️ **UML/Merise**
-- 📊 **Project Management**
-- 🎨 **UI/UX Design**
-- </> **ReactJS**
-- 💙 **TypeScript**
-- 🖧 **NodeJS**
-- 🐍 **Python**
-- 🛡 **C/C++**
-- 🔗 **API Integration**
-- 🔥 **Firebase**
-- 💾 **MYSQL & SQLite**
-- ♨️ **HTML, CSS, JavaScript**
+### Core Expertise
+- **Data Modelling & System Architecture**
+- **UML/Merise Diagramming**
+- **Project Management**
+- **UI/UX Design**
 
----
+### Technologies
 
-![JAVASCRIPT](https://img.shields.io/badge/_-JS-F1E05A.svg?style=for-the-badge) ![TYPESCRIPT](https://img.shields.io/badge/_-TS-2B7489.svg?style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/lionel-sisso-b3b8342a6/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/lionel-hue"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-> 😆 **Fun Fact:**<br/> 
-> *"I love data modelling more than I love coding more than I love people."*   
+## 📬 Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lionel-sisso-b3b8342a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lionel-hue">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+> **Fun Fact:**  
+> *"I love data modelling more than I love coding more than I love people."* 😄
