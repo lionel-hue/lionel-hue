@@ -4,6 +4,13 @@
 *Turning manual processes into automated solutions*
 
 <div align="center">
+  <a href="https://lionel-hue.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_View_My_Live-Portfolio-10B981?style=for-the-badge" alt="Live Portfolio" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
   <img src="img/20250515_200835~2.png" width="50%"/>
 </div>
 
@@ -64,6 +71,9 @@ I'm constantly evolving my skills to create robust systems based on solid archit
 ## 📬 Connect
 
 <div align="center">
+  <a href="https://lionel-hue.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/lionel-sisso-b3b8342a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
