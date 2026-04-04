@@ -30,6 +30,18 @@ I'm constantly evolving my skills to create robust systems based on solid archit
 
 ---
 
+## 🚀 Featured Projects (Production-Ready)
+
+I build production-ready applications with a focus on architecture, performance, and user experience.
+
+- 🐰 **[CuniApp](https://github.com/lionel-hue/CuniApp)**: A comprehensive SaaS CRM for rabbit breeding management. Built with a robust Laravel backend and a modern React frontend.
+  - 🔗 **Live:** [cuniapp.alwaysdata.net](https://cuniapp.alwaysdata.net)
+- 💬 **[Tulk](https://github.com/lionel-hue/Tulk)**: A premium glassmorphic social platform featuring real-time messaging and advanced theme management.
+  - 🔗 **Live:** [tulk-phi.vercel.app](https://tulk-phi.vercel.app)
+
+---
+
+
 ## 🛠️ Technical Skills
 
 ### Core Expertise
