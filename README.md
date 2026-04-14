@@ -14,6 +14,8 @@
   <img src="img/20250515_200835~2.png" width="50%"/>
 </div>
 
+<!-- Example badge for your README -->
+[![committers.top badge](https://committers.top/badge/lionel-hue)](https://committers.top/benin.html)
 ---
 
 ## 👨‍💻 About Me
