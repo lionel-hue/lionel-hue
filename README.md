@@ -14,14 +14,6 @@
   <img src="img/20250515_200835~2.png" width="50%"/>
 </div>
 
-<!-- Stats & Rankings -->
-<div align="center">
-  <a href="https://committers.top/benin.html">
-    <img src="https://img.shields.io/badge/🏆_Top_Contributor-Benin-10B981?style=for-the-badge" alt="Top Contributor Benin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=lionel-hue&style=for-the-badge&color=10B981" alt="Profile Views" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
