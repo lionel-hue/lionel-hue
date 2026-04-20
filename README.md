@@ -46,6 +46,8 @@ I build production-ready applications with a focus on architecture, performance,
   - 🔗 **Live:** [cuniapp.alwaysdata.net](https://cuniapp.alwaysdata.net)
 - 💬 **[Tulk](https://github.com/lionel-hue/Tulk)**: A premium glassmorphic social platform featuring real-time messaging and advanced theme management.
   - 🔗 **Live:** [tulk-phi.vercel.app](https://tulk-phi.vercel.app)
+- 🎓 **[AcademVault](https://github.com/lionel-hue/AcademVault)**: An intelligent academic research platform for discovering, organizing, and sharing academic resources. Features all-in-one search, secure encrypted vaults, and research analytics.
+  - 🔗 **Live:** [academvault-front.vercel.app](https://academvault-front.vercel.app)
 
 ---
 
