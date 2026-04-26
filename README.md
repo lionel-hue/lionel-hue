@@ -47,6 +47,8 @@ I build production-ready applications with a focus on architecture, performance,
   - 🔗 **Live:** [tulk-phi.vercel.app](https://tulk-phi.vercel.app)
 - 🎓 **[AcademVault](https://github.com/lionel-hue/AcademVault)**: An intelligent academic research platform for discovering, organizing, and sharing academic resources. Features all-in-one search, secure encrypted vaults, and research analytics.
   - 🔗 **Live:** [academvault-front.vercel.app](https://academvault-front.vercel.app)
+- 🏫 **[vDeskConnect](https://github.com/1i0ne1/vDeskConnect)**: A state-of-the-art, multi-tenant SMS & LMS. Built for the modern educational era, it empowers institutions worldwide to manage their entire academic lifecycle with AI-powered tools.
+  - 🔗 **Live:** [v-desk-connect.vercel.app](https://v-desk-connect.vercel.app/)
 
 ---
 
