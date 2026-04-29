@@ -22,7 +22,9 @@
 </div>
 <br/>
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=1i0ne1)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1i0ne1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
