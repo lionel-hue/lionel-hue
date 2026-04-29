@@ -20,6 +20,10 @@
     <img src="https://img.shields.io/badge/🏆_Top_Contributor-Benin-10B981?style=for-the-badge" alt="Top Contributor Benin" />
   </a>
 </div>
+<br/>
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=1i0ne1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
 
